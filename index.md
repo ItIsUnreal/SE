@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[cheat-sheet Markdown](https://www.markdownguide.org/cheat-sheet/)
 
 You can use the [editor on GitHub](https://github.com/ItIsUnreal/SE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
